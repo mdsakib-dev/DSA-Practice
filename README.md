@@ -1,19 +1,32 @@
 # DSA Practice
 
-Hi, I'm Md. Sakib Hossen.
-
-This repository contains my Data Structures and Algorithms practice in C++.
+Welcome to my Data Structures and Algorithms repository.
 
 ## Topics
-- Arrays
-- Linked List
+- Array
+- String
+- Sorting
+- Searching
+- Binary Search
 - Stack
 - Queue
+- Linked List
 - Tree
 - Graph
 - Dynamic Programming
 
+## Competitive Programming
+- Codeforces
+- CodeChef
+- LeetCode
+
+## Language
+- C++
+
 ## Goal
 - Become a Codeforces Expert
-- Improve Problem Solving
-- Learn Data Structures and Algorithms
+- Improve Problem Solving Skills
+- Master Data Structures and Algorithms
+
+## Author
+Md. Sakib Hossen
